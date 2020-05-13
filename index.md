@@ -1,3 +1,4 @@
+theme: minima
 # PIVO
 PIVO PIVO PIVO PIVO
 :-D
